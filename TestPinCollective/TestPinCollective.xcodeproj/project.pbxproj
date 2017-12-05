@@ -17,6 +17,20 @@
 		D694AA091FD44ECF00AD7C1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D694AA071FD44ECF00AD7C1C /* LaunchScreen.storyboard */; };
 		D694AA141FD44ECF00AD7C1C /* TestPinCollectiveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D694AA131FD44ECF00AD7C1C /* TestPinCollectiveTests.swift */; };
 		D694AA1F1FD44ECF00AD7C1C /* TestPinCollectiveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D694AA1E1FD44ECF00AD7C1C /* TestPinCollectiveUITests.swift */; };
+		D6F6E8391FD66BC400C26C46 /* Tinywebm.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E82B1FD66BC300C26C46 /* Tinywebm.swift */; };
+		D6F6E83A1FD66BC400C26C46 /* Mediumgif.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E82C1FD66BC300C26C46 /* Mediumgif.swift */; };
+		D6F6E83B1FD66BC400C26C46 /* ColletionMedia.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E82D1FD66BC300C26C46 /* ColletionMedia.swift */; };
+		D6F6E83C1FD66BC400C26C46 /* Nanomp4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E82E1FD66BC300C26C46 /* Nanomp4.swift */; };
+		D6F6E83D1FD66BC400C26C46 /* Nanowebm.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E82F1FD66BC300C26C46 /* Nanowebm.swift */; };
+		D6F6E83E1FD66BC400C26C46 /* Mp4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8301FD66BC300C26C46 /* Mp4.swift */; };
+		D6F6E83F1FD66BC400C26C46 /* Media.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8311FD66BC400C26C46 /* Media.swift */; };
+		D6F6E8401FD66BC400C26C46 /* Tinymp4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8321FD66BC400C26C46 /* Tinymp4.swift */; };
+		D6F6E8411FD66BC400C26C46 /* Results.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8331FD66BC400C26C46 /* Results.swift */; };
+		D6F6E8421FD66BC400C26C46 /* Loopedmp4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8341FD66BC400C26C46 /* Loopedmp4.swift */; };
+		D6F6E8431FD66BC400C26C46 /* Webm.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8351FD66BC400C26C46 /* Webm.swift */; };
+		D6F6E8441FD66BC400C26C46 /* Tinygif.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8361FD66BC400C26C46 /* Tinygif.swift */; };
+		D6F6E8451FD66BC400C26C46 /* Nanogif.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8371FD66BC400C26C46 /* Nanogif.swift */; };
+		D6F6E8461FD66BC400C26C46 /* Gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6E8381FD66BC400C26C46 /* Gif.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +72,20 @@
 		D694AA1A1FD44ECF00AD7C1C /* TestPinCollectiveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestPinCollectiveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D694AA1E1FD44ECF00AD7C1C /* TestPinCollectiveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestPinCollectiveUITests.swift; sourceTree = "<group>"; };
 		D694AA201FD44ECF00AD7C1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6F6E82B1FD66BC300C26C46 /* Tinywebm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tinywebm.swift; sourceTree = "<group>"; };
+		D6F6E82C1FD66BC300C26C46 /* Mediumgif.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mediumgif.swift; sourceTree = "<group>"; };
+		D6F6E82D1FD66BC300C26C46 /* ColletionMedia.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColletionMedia.swift; sourceTree = "<group>"; };
+		D6F6E82E1FD66BC300C26C46 /* Nanomp4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Nanomp4.swift; sourceTree = "<group>"; };
+		D6F6E82F1FD66BC300C26C46 /* Nanowebm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Nanowebm.swift; sourceTree = "<group>"; };
+		D6F6E8301FD66BC300C26C46 /* Mp4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mp4.swift; sourceTree = "<group>"; };
+		D6F6E8311FD66BC400C26C46 /* Media.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Media.swift; sourceTree = "<group>"; };
+		D6F6E8321FD66BC400C26C46 /* Tinymp4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tinymp4.swift; sourceTree = "<group>"; };
+		D6F6E8331FD66BC400C26C46 /* Results.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Results.swift; sourceTree = "<group>"; };
+		D6F6E8341FD66BC400C26C46 /* Loopedmp4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Loopedmp4.swift; sourceTree = "<group>"; };
+		D6F6E8351FD66BC400C26C46 /* Webm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Webm.swift; sourceTree = "<group>"; };
+		D6F6E8361FD66BC400C26C46 /* Tinygif.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tinygif.swift; sourceTree = "<group>"; };
+		D6F6E8371FD66BC400C26C46 /* Nanogif.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Nanogif.swift; sourceTree = "<group>"; };
+		D6F6E8381FD66BC400C26C46 /* Gif.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gif.swift; sourceTree = "<group>"; };
 		DB4AAE9BB79B8BB2AD98D54E /* Pods-TestPinCollective.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestPinCollective.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestPinCollective/Pods-TestPinCollective.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -127,6 +155,7 @@
 		D694A9FD1FD44ECF00AD7C1C /* TestPinCollective */ = {
 			isa = PBXGroup;
 			children = (
+				D6F6E8291FD66ADB00C26C46 /* Model */,
 				D694A9FE1FD44ECF00AD7C1C /* AppDelegate.swift */,
 				D694AA001FD44ECF00AD7C1C /* ViewController.swift */,
 				D694AA021FD44ECF00AD7C1C /* Main.storyboard */,
@@ -153,6 +182,35 @@
 				D694AA201FD44ECF00AD7C1C /* Info.plist */,
 			);
 			path = TestPinCollectiveUITests;
+			sourceTree = "<group>";
+		};
+		D6F6E8291FD66ADB00C26C46 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D6F6E82A1FD66B0300C26C46 /* MediaModel */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D6F6E82A1FD66B0300C26C46 /* MediaModel */ = {
+			isa = PBXGroup;
+			children = (
+				D6F6E82D1FD66BC300C26C46 /* ColletionMedia.swift */,
+				D6F6E8381FD66BC400C26C46 /* Gif.swift */,
+				D6F6E8341FD66BC400C26C46 /* Loopedmp4.swift */,
+				D6F6E8311FD66BC400C26C46 /* Media.swift */,
+				D6F6E82C1FD66BC300C26C46 /* Mediumgif.swift */,
+				D6F6E8301FD66BC300C26C46 /* Mp4.swift */,
+				D6F6E8371FD66BC400C26C46 /* Nanogif.swift */,
+				D6F6E82E1FD66BC300C26C46 /* Nanomp4.swift */,
+				D6F6E82F1FD66BC300C26C46 /* Nanowebm.swift */,
+				D6F6E8331FD66BC400C26C46 /* Results.swift */,
+				D6F6E8361FD66BC400C26C46 /* Tinygif.swift */,
+				D6F6E8321FD66BC400C26C46 /* Tinymp4.swift */,
+				D6F6E82B1FD66BC300C26C46 /* Tinywebm.swift */,
+				D6F6E8351FD66BC400C26C46 /* Webm.swift */,
+			);
+			path = MediaModel;
 			sourceTree = "<group>";
 		};
 		E451EB194F060F21A218FC96 /* Frameworks */ = {
@@ -468,7 +526,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				D694AA011FD44ECF00AD7C1C /* ViewController.swift in Sources */,
+				D6F6E83C1FD66BC400C26C46 /* Nanomp4.swift in Sources */,
+				D6F6E8421FD66BC400C26C46 /* Loopedmp4.swift in Sources */,
+				D6F6E83B1FD66BC400C26C46 /* ColletionMedia.swift in Sources */,
+				D6F6E8401FD66BC400C26C46 /* Tinymp4.swift in Sources */,
+				D6F6E83A1FD66BC400C26C46 /* Mediumgif.swift in Sources */,
+				D6F6E8391FD66BC400C26C46 /* Tinywebm.swift in Sources */,
+				D6F6E83F1FD66BC400C26C46 /* Media.swift in Sources */,
+				D6F6E8411FD66BC400C26C46 /* Results.swift in Sources */,
+				D6F6E83E1FD66BC400C26C46 /* Mp4.swift in Sources */,
+				D6F6E8461FD66BC400C26C46 /* Gif.swift in Sources */,
+				D6F6E83D1FD66BC400C26C46 /* Nanowebm.swift in Sources */,
 				D694A9FF1FD44ECF00AD7C1C /* AppDelegate.swift in Sources */,
+				D6F6E8451FD66BC400C26C46 /* Nanogif.swift in Sources */,
+				D6F6E8441FD66BC400C26C46 /* Tinygif.swift in Sources */,
+				D6F6E8431FD66BC400C26C46 /* Webm.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
